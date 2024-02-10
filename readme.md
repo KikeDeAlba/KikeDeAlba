@@ -3,6 +3,8 @@
 - [ ] Curso de CSS
 - [ ] Curso de JavaScript
 - [ ] Explicar diagramas de flujo
+- [ ] Explicar bases de datos (Relacionales y no relacionales)
+- [ ] Curso de SQL
 - [ ] Curso de Python
 - [ ] Curso de Node
 - [ ] Crear un paquete de npm
