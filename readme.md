@@ -1,13 +1,23 @@
 ### Ideas para proximo contenido:
-- [ ] Explicar diagramas de flujo
-- [ ] Curso de github
-- [ ] Curso de terminal de linux (Comandos basicos para comenzar en el mundo desarrollo)
-- [ ] Curso de JavaScript
-- [ ] Curso de Python
-- [ ] Curso de CSS
 - [ ] Curso de HTML
+- [ ] Curso de CSS
+- [ ] Curso de JavaScript
+- [ ] Explicar diagramas de flujo
+- [ ] Curso de Python
 - [ ] Curso de Node
+- [ ] Crear un paquete de npm
+- [ ] Curso de Astro
+- [ ] Curso de NextJS
+- [ ] Curso React Native
 - [ ] Curso de Hono
 - [ ] Curso de FastApi
-- [ ] Curso de Astro
+- [ ] Explicar los websockets y server side events
+- [ ] Proyecto de Chat en tiempo real con WebSockets
+- [ ] Explicar WebRTC
+- [ ] Proyecto de app para videollamada
 - [ ] Explicar tailwind (Utilidad y Casos de uso)
+- [ ] Curso de Rust
+- [ ] TodoApp con Rust
+- [ ] Curso de terminal de linux (Comandos basicos para comenzar en el mundo desarrollo)
+- [ ] Curso de github
+- [ ] Curso de git
