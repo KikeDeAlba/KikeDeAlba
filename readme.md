@@ -1,3 +1,6 @@
+# Sobre mi:
+Soy Jesus Enrique De Alba Gaytan, desarrollador FullStack
+
 ### Ideas para proximo contenido:
 - [ ] Curso de HTML
 - [ ] Curso de CSS
