@@ -1,0 +1,13 @@
+### Ideas para proximo contenido
+- [ ] Explicar diagramas de flujo
+- [ ] Curso de github
+- [ ] Curso de terminal de linux (Comandos basicos para comenzar en el mundo desarrollo)
+- [ ] Curso de JavaScript
+- [ ] Curso de Python
+- [ ] Curso de CSS
+- [ ] Curso de HTML
+- [ ] Curso de Node
+- [ ] Curso de Hono
+- [ ] Curso de FastApi
+- [ ] Curso de Astro
+- [ ] Explicar tailwind (Utilidad y Casos de uso)
