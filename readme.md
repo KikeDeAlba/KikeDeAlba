@@ -1,7 +1,7 @@
 # Sobre mi:
 Soy Jesus Enrique De Alba Gaytan, desarrollador FullStack
 
-## Proyectos:
+### Proyectos:
 (Pendiente)
 
 ### Ideas para proximo contenido:
