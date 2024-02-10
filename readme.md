@@ -1,4 +1,4 @@
-### Ideas para proximo contenido
+### Ideas para proximo contenido:
 - [ ] Explicar diagramas de flujo
 - [ ] Curso de github
 - [ ] Curso de terminal de linux (Comandos basicos para comenzar en el mundo desarrollo)
