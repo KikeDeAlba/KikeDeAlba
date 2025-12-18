@@ -21,12 +21,6 @@ Implementación y mantenimiento de flujos de autenticación y autorización para
 - Escalabilidad
 - Mantenibilidad
 
-### 📚 Bot de Congelamiento de Wikipedia
-Proyecto de innovación desarrollado en **Python**, que automatiza:
-- Revisiones y aprobaciones
-- Notificaciones mediante AWS Lambda, SQS y EventBridge
-- Persistencia en PostgreSQL
-
 ### 🎁 Vivagift
 Implementación de mecanismos de encriptación para gift cards, fortaleciendo la seguridad de datos sensibles de clientes en un sistema basado en **NestJS** y **Vue.js**.
 
